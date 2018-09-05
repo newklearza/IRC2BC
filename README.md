@@ -1,5 +1,7 @@
 <h1># IRC2BC</h1>
 
+<h3>User and Transaction Hashed Encryption</h3>
+
 <p><strong>IRC to Blockchain i.e Blockchain in mSL &amp;&amp; IRC -> PHP using JQuery and Javascript.</strong></p> 
 
 <p>Please note: mSL scripts ending in .mrc require <a href="https://www.mirc.co.uk/">mIRC</a> to run.
