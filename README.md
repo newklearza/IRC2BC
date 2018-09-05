@@ -1,6 +1,6 @@
 <h1># IRC2BC</h1>
 
-<h3>User and Transaction Hashed Encryption</h3>
+<h3>User and Transaction Hashed Encryption!</h3>
 
 <p><strong>IRC to Blockchain i.e Blockchain in mSL &amp;&amp; IRC -> PHP using JQuery and Javascript.</strong></p> 
 
