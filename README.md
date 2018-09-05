@@ -1,13 +1,13 @@
 <h1># IRC2BC</h1>
 
-<p><strong>IRC to Blockchain i.e Blockchain in mSL &amp;&amp; IRC -> PHP using Jquery, Javascript and HTML.</strong></p> 
+<p><strong>IRC to Blockchain i.e Blockchain in mSL &amp;&amp; IRC -> PHP using JQuery and Javascript.</strong></p> 
 
 <p>Please note: mSL scripts ending in .mrc require <a href="https://www.mirc.co.uk/">mIRC</a> to run.
 Tools used: <a href="http://www.wampserver.com/en//">WAMP</a> with <a href="https://www.mirc.co.uk/">mIRC</a> installed on Windows 10 
  
 </p>
  
-IRC2BC Index:
+<strong>IRC2BC Index:</strong>
 
 <ul>
   <li>irc2blockchain.mrc - Testing alias</li>
@@ -20,11 +20,12 @@ IRC2BC Index:
  <li>index.php - PHP main index page</li>
 </ul>
 
-If You wish to collaborate on IRC todo with IRC2BC, message newklear: please click
+If You wish to collaborate on IRC todo with IRC2BC, message newklear: click
 <a href="https://www.irccloud.com/invite?channel=%23ChillRoom&amp;hostname=irc.atrum.org&amp;port=6697&amp;ssl=1" target="_blank"><img src="https://img.shields.io/badge/IRC-%23ChillRoom-1e72ff.svg?style=plastic"  height="20"></a>
 
 Or alternatively, if you make use of your own IRC client, connect to: <a href="irc://irc.atrum.org:6667/#chillroom">#ChillRoom on irc.atrum.org</a>
 
 Thank you!
+newklear - 2018
 
 
