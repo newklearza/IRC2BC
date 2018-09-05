@@ -2,7 +2,7 @@
 
 <p><strong>IRC to Blockchain i.e Blockchain in mSL &amp;&amp; IRC -> PHP using Ajax, Javascript and HTML.</strong></p> 
 
-<p>Please note: These mSL scripts ending in .mrc require <a href="https://www.mirc.co.uk/">mIRC</a> to run
+<p>Please note: These mSL scripts ending in .mrc require <a href="https://www.mirc.co.uk/">mIRC</a> to run.
 Tools used: WAMP with mIRC installed on Windows 10
 </p>
  
